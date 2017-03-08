@@ -22,14 +22,6 @@ The goals / steps of this project are the following:
 [lane_detection]: ./report_images/lane_detection.png "lane detection"
 [lane_detect]: ./report_images/lane_detect.png "lane detection"
 
-[image1]: ./examples/undistort_output.png "Undistorted"
-[image2]: ./test_images/test1.jpg "Road Transformed"
-[image3]: ./examples/binary_combo_example.jpg "Binary Example"
-[image4]: ./examples/warped_straight_lines.jpg "Warp Example"
-[image5]: ./examples/color_fit_lines.jpg "Fit Visual"
-[image6]: ./examples/example_output.jpg "Output"
-[video1]: ./project_video.mp4 "Video"
-
 **Note that all the code references here are in the `examples.ipynb`. For the video pipelining I just copy all the functions to the new notebook `video_pipeline.ipynb`**
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
